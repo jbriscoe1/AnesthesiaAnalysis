@@ -2,4 +2,6 @@
 
 %I am very confused
 
-%I will try and keep this file as a quality control 
+%I will try and keep this file as a quality control
+
+%updating to check if I can work from within atom
