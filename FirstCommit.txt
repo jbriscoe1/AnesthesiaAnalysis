@@ -7,3 +7,5 @@
 %updating to check if I can work from within atom
 
 %Try and update 
+
+%cloned personal Dell computer as a second repo from central%
